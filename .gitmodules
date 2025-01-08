@@ -1,3 +1,6 @@
 [submodule "tinyusb"]
 	path = tinyusb
 	url = https://github.com/hathach/tinyusb
+[submodule "subm"]
+	path = subm
+	url = https://github.com/kaMIsuel/subm
